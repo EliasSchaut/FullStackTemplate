@@ -1,0 +1,14 @@
+{
+  "forbidden": {
+    "login": "Invalid login",
+    "no_token": "No token provided",
+    "invalid_token": "Invalid token"
+  },
+  "db": {
+    "not_reached": "Database not reachable! Try again later",
+    "record_not_found": "Record not found",
+    "record_already_exists": "Record already exists",
+    "internal": "A database error has occurred! Try again later"
+  },
+  "internal": "An error has occurred! Try again later"
+}

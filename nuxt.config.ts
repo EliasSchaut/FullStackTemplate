@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   workspaceDir: '.',
-  srcDir: './src',
+  srcDir: './client',
   compatibilityDate: '2024-11-01',
   modules: [
     '@nuxtjs/i18n',

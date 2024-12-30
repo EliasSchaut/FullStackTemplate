@@ -1,0 +1,14 @@
+{
+  "forbidden": {
+    "login": "Ungültige Anmeldung",
+    "no_token": "Kein Token angegeben",
+    "invalid_token": "Ungültiger Token"
+  },
+  "db": {
+    "not_reached": "Datenbank nicht erreichbar! Versuche es später erneut",
+    "record_not_found": "Eintrag nicht gefunden",
+    "record_already_exists": "Eintrag existiert bereits",
+    "internal": "Ein Datenbankfehler ist aufgetreten! Versuche es später erneut"
+  },
+  "internal": "Ein Fehler ist aufgetreten! Versuche es später erneut"
+}

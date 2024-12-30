@@ -1,2 +1,2 @@
-# NuxtTemplate
-My personal template for nuxt projects
+# FullTemplate
+My personal template for full stack projects
