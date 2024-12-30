@@ -10,6 +10,7 @@
     "url": "https://github.com/EliasSchaut/FullTemplate.git"
   },
   "scripts": {
+    "start": "npm run start:server & npm run start:client",
     "start:client": "node .output/server/index.mjs",
     "start:server": "nest start",
     "dev:client": "nuxt dev",
